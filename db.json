@@ -1,0 +1,91 @@
+{
+  "user": [
+    {
+      "email": "kaungkhants892@gmail.com",
+      "password": "kks",
+      "id": 1
+    },
+    {
+      "email": "dafadsfasf892@gmail.com",
+      "password": "dafs",
+      "id": 2
+    },
+    {
+      "email": "baka@gmail.com",
+      "password": "kks444",
+      "id": 3
+    },
+    {
+      "email": "SuSU@gmail.com",
+      "password": "susu",
+      "id": 4
+    }
+  ],
+  "notes": [
+    {
+      "userId": 1,
+      "id": 1,
+      "note": "JS"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "note": "React"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "note": "AI"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "note": "CSS"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "note": "UI"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "note": "UX"
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "note": "note"
+    },
+    {
+      "userId": 13,
+      "note": "ooo",
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "note": "haha",
+      "id": 10
+    },
+    {
+      "userId": 3,
+      "note": "Lemon",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "note": "Orange",
+      "id": 12
+    },
+    {
+      "userId": 4,
+      "note": "Ai",
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "note": "DI",
+      "id": 14
+    }
+  ]
+}
